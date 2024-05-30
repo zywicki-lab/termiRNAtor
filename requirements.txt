@@ -1,0 +1,8 @@
+gffutils
+deeptools
+pyBigWig
+numpy
+pybedtools
+biopython
+pandas
+sklearn

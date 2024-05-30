@@ -1,0 +1,12 @@
+[[3319  757]
+ [1295 2053]]
+TP: 2053; TN: 3319; FN: 1295; FP: 757
+              precision    recall  f1-score   support
+
+       False       0.72      0.81      0.76      4076
+        True       0.73      0.61      0.67      3348
+
+    accuracy                           0.72      7424
+   macro avg       0.72      0.71      0.72      7424
+weighted avg       0.72      0.72      0.72      7424
+
